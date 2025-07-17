@@ -1,0 +1,2 @@
+Usuario: admin@magno.com
+Contraseña: magnofotos
